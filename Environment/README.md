@@ -1,11 +1,14 @@
 # Daz Library basic for Environment
 
-## Fundamentals
+## Fundamentals (Misc)
 
 ## MC House
 - [i13 On My Own Bundle](https://www.daz3d.com/i13-on-my-own-bundle)
 
+- [Collective3d Create a Room Base Set](https://www.daz3d.com/collective3d-create-a-room-base-set) & XPack [1](https://web.archive.org/web/20160714221842/https://www.daz3d.com/collective3d-create-a-room-xpack-1), [2](https://www.daz3d.com/collective3d-create-a-room-xpack-2), [3](https://www.daz3d.com/collective3d-create-a-room-xpack-3)
+
 ### House
+- [Modern Home 1](https://www.renderosity.com/rr/mod/bcs/index.php?ViewProduct=102255)
 
 ### Room MC (Bobby)
 - [College Dorm](https://www.daz3d.com/college-dorm)
@@ -29,12 +32,20 @@
 
 #### Terrace
 - [The Neighbour's Pools](https://www.daz3d.com/the-neighbours-pools)
+- [Tiles (Texture)](https://www.daz3d.com/tiles)
 
 ## Nightclub
 - [The Brass Pole Nightclub](https://www.daz3d.com/the-brass-pole-nightclub)
+- [High School Bathroom](https://www.daz3d.com/high-school-bathroom)
+
+# Shop
+- [Corner Store and Poses ](https://www.daz3d.com/corner-store-and-poses-for-genesis-3-male-and-female)
 
 ## Office
 - [i13 Loan Agent's Office Interior](https://www.daz3d.com/i13-loan-agent-s-office-interior)
 
-# Desert Road
+## Desert Road
 - [Ambush Alley Post Apocalyptic Bundle](https://www.daz3d.com/ambush-alley-post-apocalyptic-bundle)
+
+## Neighborhood 
+- [1stBastions Neighbours](https://www.daz3d.com/1stbastions-neighbours-front-drive)
