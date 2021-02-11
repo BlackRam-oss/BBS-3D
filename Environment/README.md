@@ -1,9 +1,11 @@
 # Daz Library basic for Environment
 
-## Fundamentals
+## Fundamentals (Misc)
+- [Summer Mood Bedroom](https://www.daz3d.com/summer-mood-bedroom)
+- [i13 Stylish Apartment](https://www.daz3d.com/i13-stylish-apartment-bundle)
+- [College Dorm](https://www.daz3d.com/college-dorm-bundle)
 
 ## MC House
-- [i13 On My Own Bundle](https://www.daz3d.com/i13-on-my-own-bundle)
 
 ### House
 
@@ -11,8 +13,10 @@
 - [College Dorm](https://www.daz3d.com/college-dorm)
 
 ### Room Ms. Anna
+- [i13 On My Own Bundle](https://www.daz3d.com/i13-on-my-own-bundle)
 
 ### Room Lucy
+- [GCD Interiors - Design46](https://www.renderosity.com/rr/mod/bcs/gcd-interiors---design46/121322)
 
 ### Room Liza
 - [Dorm Room](https://www.daz3d.com/dorm-room)
