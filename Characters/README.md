@@ -23,6 +23,17 @@
 - [Secrets for Sweetie PJs](https://www.renderosity.com/rr/mod/bcs/secrets-for-sweetie-pjs/119740)
 - [Sweetie PJ Set](https://www.renderosity.com/rr/mod/bcs/sweetie-pj-set-for-genesis-3-females/119684)
 - [i13 3 Stylish Tops](https://www.daz3d.com/i13-3-stylish-tops-for-the-genesis-3-female-s)
+- [X-Fashion Chic Winter](https://www.daz3d.com/x-fashion-chic-winter-outfit-for-genesis-3-female-s)
+- [Dreamy Lingerie](https://www.daz3d.com/dreamy-lingerie-for-genesis-3-female-s)
+- [Hot Summer 2017](https://www.renderosity.com/rr/mod/bcs/hot-summer-2017-for-g3-females/120951)
+- [Swimsuit](https://www.daz3d.com/swimsuit-for-genesis-3-female-s)
+- [Street Chic Amy](https://www.renderosity.com/rr/mod/bcs/street-chic-amy-for-g3f/119807)
+- [Long Nightie Shirt](https://www.renderosity.com/rr/mod/bcs/long-nightie-shirt-for-genesis-3-females/120268) & [Sleepy Time (Texture)](https://www.renderosity.com/rr/mod/bcs/sleepy-time-for-long-nightie-shirt/120234)
+- [Hot Dream](https://www.renderosity.com/rr/mod/bcs/index.php?ViewProduct=120954)
+- [Spring-Patches](https://www.renderosity.com/rr/mod/bcs/spring-patches-outfit-for-g3f/119590)
+- [Nighty Night](https://www.daz3d.com/nighty-night-outfit-for-genesis-3-female-s)
+- [Bardot Style](https://www.renderosity.com/rr/mod/bcs/bardot-style-for-g2/110999)
+- [TSS Outfits Package](https://www.renderosity.com/rr/mod/bcs/tss-outfits-package-for-genesis-3-females/116671)
 
 ## Genitals
 

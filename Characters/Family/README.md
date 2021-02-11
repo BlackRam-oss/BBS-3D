@@ -18,16 +18,14 @@
 - [X-Fashion Lace Babydoll](https://www.renderosity.com/rr/mod/bcs/x-fashion-lace-babydoll-for-genesis-3-females/120387)
 - [7th Ave: Yoga](https://www.renderosity.com/rr/mod/bcs/7th-ave-yoga-for-g3f/111415)
 - [Flair Outfit](https://www.daz3d.com/flair-outfit-for-genesis-3-female-s)
-- [Side Tail Hair](https://www.daz3d.com/side-tail-hair)
-- [Side Tail Hair](https://www.daz3d.com/side-tail-hair)
-- [Side Tail Hair](https://www.daz3d.com/side-tail-hair)
-- [Side Tail Hair](https://www.daz3d.com/side-tail-hair)
 
 ## Lucy
 #### G3
 - [BD Demi](https://www.daz3d.com/bd-demi)
 #### Hair
 - [Christina Hair](https://www.daz3d.com/christina-hair)
+#### Clothes
+- [Deep Impact](https://www.daz3d.com/deep-impact-for-genesis-3-female-s)
 
 ## Liza
 #### G3
@@ -35,3 +33,13 @@
 - [FWSA Caterina](https://www.renderosity.com/rr/mod/bcs/fwsa-caterina-for-victoria-7-and-genesis-3/116019)
 #### Hair
 - [Jennifer Hair](https://www.daz3d.com/jennifer-hair-for-genesis-3-female-s)
+
+## Jenny
+### (old model)
+#### G3
+- [FWSA Zetta](https://www.renderosity.com/rr/mod/bcs/fwsa-zetta-for-victoria-7-and-genesis-3/119540)
+#### Hair
+- [Cailin Bundle](https://www.daz3d.com/cailin-bundle)
+### (new model never published)
+#### G3
+#### Hair
