@@ -36,8 +36,8 @@
 
 ### Terrace
 - [The Neighbour's Pools](https://www.daz3d.com/the-neighbours-pools)
+- [Round Pool Deck](https://www.renderosity.com/rr/mod/bcs/round-pool-deck/121785) + [Summer Fun](https://www.renderosity.com/rr/mod/bcs/summer-fun-for-round-pool-deck/121825)
 - [Tiles (Texture)](https://www.daz3d.com/tiles)
-
 
 
 ## Nightclub
