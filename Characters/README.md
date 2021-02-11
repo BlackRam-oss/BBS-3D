@@ -1,6 +1,7 @@
 # Daz Library basic for Characters
 
 ## Characters
+- [Victoria 7 (G3)](https://www.daz3d.com/victoria-7-pro-bundle)
 
 ## Hair
 
