@@ -1,3 +1,9 @@
+# Assets for Bad Bobby Saga
+![Last commit](https://img.shields.io/github/last-commit/DonRP/BBS-3D)
+<span class="discord">
+<a href="https://discord.gg/rsxS5vTVFR" title="Discord"><img src="https://img.shields.io/discord/688162156151439536" alt="Discord" /></a>
+</span>
+
 # Daz Library
 
 ## Vehicles
