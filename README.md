@@ -4,8 +4,6 @@
 <a href="https://discord.gg/rsxS5vTVFR" title="Discord"><img src="https://img.shields.io/discord/688162156151439536" alt="Discord" /></a>
 </span>
 
-# Daz Library
-
 ## Vehicles
 - [Pick 'em Up Truck](https://www.daz3d.com/pick-em-up-truck)
 
