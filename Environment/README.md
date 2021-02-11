@@ -34,9 +34,11 @@
 #### Clothes (for Bathroom)
 - [H&C Shower Towel](https://www.daz3d.com/h-c-shower-towel-for-genesis-3-female-s)
 
-#### Terrace
+### Terrace
 - [The Neighbour's Pools](https://www.daz3d.com/the-neighbours-pools)
 - [Tiles (Texture)](https://www.daz3d.com/tiles)
+
+
 
 ## Nightclub
 - [The Brass Pole Nightclub](https://www.daz3d.com/the-brass-pole-nightclub)
