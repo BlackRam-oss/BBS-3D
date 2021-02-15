@@ -16,8 +16,10 @@
 - [Side Tail Hair](https://www.daz3d.com/side-tail-hair)
 #### Clothes
 - [X-Fashion Lace Babydoll](https://www.renderosity.com/rr/mod/bcs/x-fashion-lace-babydoll-for-genesis-3-females/120387)
-- [7th Ave: Yoga](https://www.renderosity.com/rr/mod/bcs/7th-ave-yoga-for-g3f/111415)
 - [Flair Outfit](https://www.daz3d.com/flair-outfit-for-genesis-3-female-s)
+#### Home clothes
+- [Yoga Clothing](http://www.renderosity.com/mod/bcs/yoga-clothing-for-genesis-8-female-/139453)
+- [7th Ave: Yoga](https://www.renderosity.com/rr/mod/bcs/7th-ave-yoga-for-g3f/111415)
 
 ## Lucy
 #### G3
