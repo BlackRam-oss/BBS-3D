@@ -12,13 +12,16 @@
 #### G8
 - [Olympia 7 for Olympia 8](https://www.daz3d.com/olympia-7-for-olympia-8)
 - [Olympia 8](https://www.daz3d.com/olympia-8)
+- [Olympia 8 HD](https://www.daz3d.com/olympia-8-hd-add-on)
 #### Hair
 - [Side Tail Hair](https://www.daz3d.com/side-tail-hair)
 #### Clothes
 - [X-Fashion Lace Babydoll](https://www.renderosity.com/rr/mod/bcs/x-fashion-lace-babydoll-for-genesis-3-females/120387)
 - [Flair Outfit](https://www.daz3d.com/flair-outfit-for-genesis-3-female-s)
 #### Home clothes
-- [Yoga Clothing](http://www.renderosity.com/mod/bcs/yoga-clothing-for-genesis-8-female-/139453)
+- [Casual Jeans and T-Shirt](https://www.daz3d.com/casual-jeans-and-t-shirt-for-genesis-2-female-s)
+- [Yoga Clothing (g8)](http://www.renderosity.com/mod/bcs/yoga-clothing-for-genesis-8-female-/139453)
+##### Texture
 - [7th Ave: Yoga](https://www.renderosity.com/rr/mod/bcs/7th-ave-yoga-for-g3f/111415)
 
 ## Lucy
