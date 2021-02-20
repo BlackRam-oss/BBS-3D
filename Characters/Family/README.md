@@ -9,6 +9,8 @@
 #### Home clothes
 - [Slacker Outfit](https://www.daz3d.com/slacker-outfit-for-genesis-3-male-s)
 - [Run With](https://www.daz3d.com/run-with-it-outfit-for-genesis-3-male-s)
+#### G8
+- [Michael 7 for Michael 8](https://www.daz3d.com/michael-7-for-michael-8)
 
 ## Ms. Anna (Milf)
 #### G3

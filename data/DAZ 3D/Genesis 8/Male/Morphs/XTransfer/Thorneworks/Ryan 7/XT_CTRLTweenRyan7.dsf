@@ -1,0 +1,76 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/data/DAZ%203D/Genesis%208/Male/Morphs/XTTemp/Thorneworks/Ryan%207/XT_CTRLTweenRyan7.dsf",
+		"type" : "modifier",
+		"contributor" : {
+			"author" : "drincs.contact@gmail.com",
+			"email" : "",
+			"website" : "https://www.patreon.com/DRincs"
+		},
+		"revision" : "1.0",
+		"modified" : "2021-02-20T17:46:35Z"
+	},
+	"modifier_library" : [
+		{
+			"id" : "XTIDCTRLTweenRyan7",
+			"name" : "XT_CTRLTweenRyan7",
+			"parent" : "/data/DAZ%203D/Genesis%208/Male/Genesis8Male.dsf#Genesis8Male",
+			"presentation" : {
+				"type" : "Modifier/Shape",
+				"label" : "",
+				"description" : "",
+				"icon_large" : "/data/DAZ%203D/Genesis%208/Male/Morphs/XTransfer/Thorneworks/Ryan%207/CTRLTweenRyan7.png",
+				"colors" : [ [ 0.2196078, 0.3019608, 0.3882353 ], [ 1, 1, 1 ] ]
+			},
+			"channel" : {
+				"id" : "value",
+				"type" : "float",
+				"name" : "XT_CTRLTweenRyan7",
+				"label" : "XT Tween Ryan 7",
+				"value" : 0,
+				"min" : 0,
+				"max" : 1,
+				"clamped" : true,
+				"display_as_percent" : true,
+				"step_size" : 0.04
+			},
+			"region" : "Actor",
+			"group" : "/XTransfer/People/Real World",
+			"formulas" : [
+				{
+					"output" : "Genesis8Male:/data/DAZ%203D/Genesis%208/Male/Genesis8Male.dsf#Genesis8Male?scale/general",
+					"operations" : [
+						{ "op" : "push", "url" : "Genesis8Male:#XTIDCTRLTweenRyan7?value" },
+						{ "op" : "push", "val" : -0.12 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Genesis8Male:/data/DAZ%203D/Genesis%208/Male/Morphs/Thorneworks/Ryan%207/FHMTweenRyan7.dsf#XTIDFHMTweenRyan7?value",
+					"operations" : [
+						{ "op" : "push", "url" : "Genesis8Male:#XTIDCTRLTweenRyan7?value" },
+						{ "op" : "push", "val" : 1 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Genesis8Male:/data/DAZ%203D/Genesis%208/Male/Morphs/Thorneworks/Ryan%207/FBMTweenRyan7.dsf#XTIDFBMTweenRyan7?value",
+					"operations" : [
+						{ "op" : "push", "url" : "Genesis8Male:#XTIDCTRLTweenRyan7?value" },
+						{ "op" : "push", "val" : 1 },
+						{ "op" : "mult" }
+					]
+				}
+			]
+		}
+	],
+	"scene" : {
+		"modifiers" : [
+			{
+				"id" : "XT_CTRLTweenRyan7",
+				"url" : "#XTIDCTRLTweenRyan7"
+			}
+		]
+	}
+}
