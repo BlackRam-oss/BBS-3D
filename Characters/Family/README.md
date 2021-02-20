@@ -2,9 +2,13 @@
 
 ## MC (Bobby)
 #### G3
-- [Tween Ryan 7](https://www.daz3d.com/olympia-7-pro-bundle)
+- [Tween Ryan 7](https://www.daz3d.com/tween-ryan-7-pro-bundle)
+- [Jared](https://www.daz3d.com/jared-for-michael-7)
 #### Hair
 - [Tyler Hair](https://www.daz3d.com/tyler-hair-for-genesis-2-3-male-s)
+#### Home clothes
+- [Slacker Outfit](https://www.daz3d.com/slacker-outfit-for-genesis-3-male-s)
+- [Run With](https://www.daz3d.com/run-with-it-outfit-for-genesis-3-male-s)
 
 ## Ms. Anna (Milf)
 #### G3
