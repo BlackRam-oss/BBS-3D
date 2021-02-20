@@ -1,7 +1,8 @@
 # Daz Library basic for Characters
 
 ## Characters
-- [Victoria 7 (G3)](https://www.daz3d.com/victoria-7-pro-bundle)
+- [Victoria 8 Pro Bundle](https://www.daz3d.com/victoria-8-pro-bundle)
+- [Michael 8 Pro Bundle](https://www.daz3d.com/michael-8-pro-bundle)
 
 ## Genitals
 
