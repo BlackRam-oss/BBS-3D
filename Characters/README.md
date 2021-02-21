@@ -1,7 +1,36 @@
 # Daz Library basic for Characters
 
 ## Characters
-- [Victoria 7 (G3)](https://www.daz3d.com/victoria-7-pro-bundle)
+- [Victoria 7](https://www.daz3d.com/victoria-7-pro-bundle)
+- [Michael 7](https://www.daz3d.com/michael-7-pro-bundle)
+- [Victoria 8](https://www.daz3d.com/victoria-8-pro-bundle)
+- [Michael 8](https://www.daz3d.com/michael-8-pro-bundle)
+
+## Genitals
+
+## Components
+
+## Morphs
+- [Daz Originals Morphs](https://f95zone.to/threads/daz3d-morph-bundle-gen8-unofficial-bundle.19345/)
+- Genesis 8 Female Body Morph Resource Kit [1](https://www.daz3d.com/genesis-8-female-body-morph-resource-kit), [2](https://www.daz3d.com/genesis-8-female-body-morph-resource-kit-2), & [3](https://www.daz3d.com/genesis-8-female-body-morph-resource-kit-3)
+- [Glutes Morphs for G8F Vol 1](https://www.renderosity.com/rr/mod/bcs/glutes-morphs-for-g8f-vol-1/121457)
+- Hips Waist Stomach Morphs [Vol 1](https://www.renderosity.com/rr/mod/bcs/hips-waist-stomach-morphs-for-g8f-vol-1/121656) & [Vol 2](https://www.renderosity.com/rr/mod/bcs/?ViewProduct=128553)
+- [HS dForce Breast](https://www.daz3d.com/hs-dforce-breast-for-genesis-2-through-genesis-8-female)
+- [Killer Legs 2.0 Morphs ](https://www.daz3d.com/killer-legs-2-0-morphs-for-genesis-8-female)
+
+## Morphs EJ
+- EJ Body Shape And Detail [Female(s)](https://www.daz3d.com/ej-body-shape-and-detail-morphs-for-genesis-8-female-s) & [Male(s)](https://www.daz3d.com/ej-body-shape-and-detail-morphs-for-genesis-8-male-s)
+- EJ Face Morphs and Details [Female(s)](https://www.daz3d.com/ej-face-morphs-and-details-for-genesis-8-females) & [Male(s)](https://www.daz3d.com/ej-face-morphs-and-details-for-genesis-8-male)
+
+## Morphs Zev0
+- [Zev0 200 Plus Head and Face Morphs](https://www.daz3d.com/200-plus-head-and-face-morphs-bundle-for-genesis-8-female-s-and-male-s)
+- Zev0 Growing Up [Female(s)](https://www.daz3d.com/growing-up-for-genesis-8-female-s)  & [Male(s)](https://www.daz3d.com/growing-up-for-genesis-8-male-s)
+- [Zev0 Vascularity HD](https://www.daz3d.com/vascularity-hd-for-genesis-8-female-and-male)
+
+## Tools
+- [Zev0 Brow Remover](https://www.daz3d.com/brow-remover-for-daz-studio)
+- [Zev0 Skin Builder 8](https://www.daz3d.com/skin-builder-8-for-genesis-8-females)
+- [XTransfer](https://www.daz3d.com/xtransfer--genesis-3-to-genesis-8-converter)
 
 ## Hair
 
@@ -34,29 +63,3 @@
 - [Nighty Night](https://www.daz3d.com/nighty-night-outfit-for-genesis-3-female-s)
 - [Bardot Style](https://www.renderosity.com/rr/mod/bcs/bardot-style-for-g2/110999)
 - [TSS Outfits Package](https://www.renderosity.com/rr/mod/bcs/tss-outfits-package-for-genesis-3-females/116671)
-
-## Genitals
-
-## Components
-
-## Morphs
-- [Daz Originals Morphs](https://f95zone.to/threads/daz3d-morph-bundle-gen8-unofficial-bundle.19345/)
-- Genesis 8 Female Body Morph Resource Kit [1](https://www.daz3d.com/genesis-8-female-body-morph-resource-kit), [2](https://www.daz3d.com/genesis-8-female-body-morph-resource-kit-2), & [3](https://www.daz3d.com/genesis-8-female-body-morph-resource-kit-3)
-- [Glutes Morphs for G8F Vol 1](https://www.renderosity.com/rr/mod/bcs/glutes-morphs-for-g8f-vol-1/121457)
-- Hips Waist Stomach Morphs [Vol 1](https://www.renderosity.com/rr/mod/bcs/hips-waist-stomach-morphs-for-g8f-vol-1/121656) & [Vol 2](https://www.renderosity.com/rr/mod/bcs/?ViewProduct=128553)
-- [HS dForce Breast](https://www.daz3d.com/hs-dforce-breast-for-genesis-2-through-genesis-8-female)
-- [Killer Legs 2.0 Morphs ](https://www.daz3d.com/killer-legs-2-0-morphs-for-genesis-8-female)
-
-## Morphs EJ
-- EJ Body Shape And Detail [Female(s)](https://www.daz3d.com/ej-body-shape-and-detail-morphs-for-genesis-8-female-s) & [Male(s)](https://www.daz3d.com/ej-body-shape-and-detail-morphs-for-genesis-8-male-s)
-- EJ Face Morphs and Details [Female(s)](https://www.daz3d.com/ej-face-morphs-and-details-for-genesis-8-females) & [Male(s)](https://www.daz3d.com/ej-face-morphs-and-details-for-genesis-8-male)
-
-## Morphs Zev0
-- [Zev0 200 Plus Head and Face Morphs](https://www.daz3d.com/200-plus-head-and-face-morphs-bundle-for-genesis-8-female-s-and-male-s)
-- Zev0 Growing Up [Female(s)](https://www.daz3d.com/growing-up-for-genesis-8-female-s)  & [Male(s)](https://www.daz3d.com/growing-up-for-genesis-8-male-s)
-- [Zev0 Vascularity HD](https://www.daz3d.com/vascularity-hd-for-genesis-8-female-and-male)
-
-## Tools
-- [Zev0 Brow Remover](https://www.daz3d.com/brow-remover-for-daz-studio)
-- [Zev0 Skin Builder 8](https://www.daz3d.com/skin-builder-8-for-genesis-8-females)
-- [XTransfer](https://www.daz3d.com/xtransfer--genesis-3-to-genesis-8-converter)
