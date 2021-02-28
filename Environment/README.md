@@ -7,7 +7,7 @@
 
 ## MC House
 
-- [Collective3d Create a Room Base Set](https://www.daz3d.com/collective3d-create-a-room-base-set) & XPack [1](https://web.archive.org/web/20160714221842/https://www.daz3d.com/collective3d-create-a-room-xpack-1), [2](https://www.daz3d.com/collective3d-create-a-room-xpack-2), [3](https://www.daz3d.com/collective3d-create-a-room-xpack-3)
+- [Collective3d Create a Room Base Set & XPack 1, 2, 3](https://f95zone.to/threads/collective3d-create-a-room-base-set-xpack-1-2-3-unofficial-bundle.21739)
 
 ### House
 - [Modern Home 1](https://www.renderosity.com/rr/mod/bcs/index.php?ViewProduct=102255)
