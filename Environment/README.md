@@ -1,13 +1,14 @@
 # Daz Library basic for Environment
 
-## Fundamentals (Misc)
+## Fundamentals
+- [Collective3d Create a Room Base Set & XPack 1, 2, 3](https://f95zone.to/threads/collective3d-create-a-room-base-set-xpack-1-2-3-unofficial-bundle.21739)
+
+##### (Misc)
 - [Summer Mood Bedroom](https://www.daz3d.com/summer-mood-bedroom)
 - [i13 Stylish Apartment](https://www.daz3d.com/i13-stylish-apartment-bundle)
 - [College Dorm](https://www.daz3d.com/college-dorm-bundle)
 
 ## MC House
-
-- [Collective3d Create a Room Base Set & XPack 1, 2, 3](https://f95zone.to/threads/collective3d-create-a-room-base-set-xpack-1-2-3-unofficial-bundle.21739)
 
 ### House
 - [Modern Home 1](https://www.renderosity.com/rr/mod/bcs/index.php?ViewProduct=102255)
@@ -27,6 +28,8 @@
 
 ### Living room
 - [i13 Comfortable Living Room](https://www.daz3d.com/i13-comfortable-living-room-with-poses-for-the-genesis-3-female-s)
+- [i13 Hotel and Lounge](https://www.daz3d.com/i13-hotel-and-lounge-environment-with-poses)
+- [i13 On My Own](https://www.daz3d.com/i13-on-my-own-bundle)
 
 ### Bathroom
 - [i13 Visions Bathroom Bundle](https://www.daz3d.com/i13-visions-bathroom-bundle)
