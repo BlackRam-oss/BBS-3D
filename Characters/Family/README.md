@@ -1,16 +1,17 @@
 # MC's family
 
 ## MC (Bobby)
-#### G3
 - [Tween Ryan 7](https://www.daz3d.com/tween-ryan-7-pro-bundle)
+#### G3
 - [Jared](https://www.daz3d.com/jared-for-michael-7)
+- [The Guy](https://www.daz3d.com/the-guy-7-pro-bundle)
+#### G8
+- [Michael 7 for Michael 8](https://www.daz3d.com/michael-7-for-michael-8)
 #### Hair
 - [Tyler Hair](https://www.daz3d.com/tyler-hair-for-genesis-2-3-male-s)
 #### Home clothes
 - [Slacker Outfit](https://www.daz3d.com/slacker-outfit-for-genesis-3-male-s)
 - [Run With](https://www.daz3d.com/run-with-it-outfit-for-genesis-3-male-s)
-#### G8
-- [Michael 7 for Michael 8](https://www.daz3d.com/michael-7-for-michael-8)
 
 ## Ms. Anna (Milf)
 #### G3

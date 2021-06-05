@@ -1,0 +1,76 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/data/DAZ%203D/Genesis%208/Male/Morphs/XTTemp/DAZ%203D/Guy%207/XT_CTRLGuy7.dsf",
+		"type" : "modifier",
+		"contributor" : {
+			"author" : "drincs.contact",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2021-06-05T15:17:57Z"
+	},
+	"modifier_library" : [
+		{
+			"id" : "XTIDCTRLGuy7",
+			"name" : "XT_CTRLGuy7",
+			"parent" : "/data/DAZ%203D/Genesis%208/Male/Genesis8Male.dsf#Genesis8Male",
+			"presentation" : {
+				"type" : "Modifier/Shape",
+				"label" : "",
+				"description" : "",
+				"icon_large" : "/data/DAZ%203D/Genesis%208/Male/Morphs/XTransfer/Daz%203D/Guy%207/CTRLGuy7.png",
+				"colors" : [ [ 0.2196078, 0.3019608, 0.3882353 ], [ 1, 1, 1 ] ]
+			},
+			"channel" : {
+				"id" : "value",
+				"type" : "float",
+				"name" : "XT_CTRLGuy7",
+				"label" : "XT Guy 7",
+				"value" : 0,
+				"min" : 0,
+				"max" : 1,
+				"clamped" : true,
+				"display_as_percent" : true,
+				"step_size" : 0.04
+			},
+			"region" : "Actor",
+			"group" : "/XTransfer/People/Stylized",
+			"formulas" : [
+				{
+					"output" : "Genesis8Male:/data/DAZ%203D/Genesis%208/Male/Genesis8Male.dsf#Genesis8Male?scale/general",
+					"operations" : [
+						{ "op" : "push", "url" : "Genesis8Male:#XTIDCTRLGuy7?value" },
+						{ "op" : "push", "val" : 0.04999995 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Genesis8Male:/data/DAZ%203D/Genesis%208/Male/Morphs/DAZ%203D/Guy%207/FHMGuy7.dsf#XTIDFHMGuy7?value",
+					"operations" : [
+						{ "op" : "push", "url" : "Genesis8Male:#XTIDCTRLGuy7?value" },
+						{ "op" : "push", "val" : 1 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Genesis8Male:/data/DAZ%203D/Genesis%208/Male/Morphs/DAZ%203D/Guy%207/FBMGuy7.dsf#XTIDFBMGuy7?value",
+					"operations" : [
+						{ "op" : "push", "url" : "Genesis8Male:#XTIDCTRLGuy7?value" },
+						{ "op" : "push", "val" : 1 },
+						{ "op" : "mult" }
+					]
+				}
+			]
+		}
+	],
+	"scene" : {
+		"modifiers" : [
+			{
+				"id" : "XT_CTRLGuy7",
+				"url" : "#XTIDCTRLGuy7"
+			}
+		]
+	}
+}
