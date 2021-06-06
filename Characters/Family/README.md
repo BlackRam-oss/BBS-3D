@@ -7,6 +7,7 @@
 - [The Guy](https://www.daz3d.com/the-guy-7-pro-bundle)
 #### G8
 - [Michael 7 for Michael 8](https://www.daz3d.com/michael-7-for-michael-8)
+- [Michael 8 HD](https://www.daz3d.com/michael-8-hd-add-on)
 #### Hair
 - [Tyler Hair](https://www.daz3d.com/tyler-hair-for-genesis-2-3-male-s)
 #### Home clothes
@@ -46,6 +47,10 @@
 #### G8
 - [Victoria 7 for Victoria 8](https://www.daz3d.com/victoria-7-for-victoria-8)
 - [Victoria 8 HD](https://www.daz3d.com/victoria-8-hd-add-on)
+#### G8 v1
+- [Big Bro]()
+#### G8.1 v2
+- [Big Bro AS]()
 #### Hair
 - [Jennifer Hair](https://www.daz3d.com/jennifer-hair-for-genesis-3-female-s)
 
