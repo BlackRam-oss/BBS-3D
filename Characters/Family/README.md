@@ -40,9 +40,12 @@
 - [Deep Impact](https://www.daz3d.com/deep-impact-for-genesis-3-female-s)
 
 ## Liza
-#### G3
 - [FWSA Imogen HD](https://www.daz3d.com/fwsa-imogen-hd-for-victoria-7)
+#### G3
 - [FWSA Caterina](https://www.renderosity.com/rr/mod/bcs/fwsa-caterina-for-victoria-7-and-genesis-3/116019)
+#### G8
+- [Victoria 7 for Victoria 8](https://www.daz3d.com/victoria-7-for-victoria-8)
+- [Victoria 8 HD](https://www.daz3d.com/victoria-8-hd-add-on)
 #### Hair
 - [Jennifer Hair](https://www.daz3d.com/jennifer-hair-for-genesis-3-female-s)
 
