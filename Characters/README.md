@@ -4,7 +4,18 @@
 - [Victoria 8](https://www.daz3d.com/victoria-8-pro-bundle)
 - [Michael 8](https://www.daz3d.com/michael-8-pro-bundle)
 
+# Expression
+- 101 Expression for [Female](https://www.daz3d.com/101-expression-library-with-dials-for-the-genesis-8-female) & [Male](https://www.daz3d.com/101-expression-library-with-dials-for-the-genesis-8-male)
+
+### Piercing
+- Piercing Collection [Female](https://www.daz3d.com/piercing-collection-for-genesis-8-female-s) & [Male](https://www.daz3d.com/piercing-collection-for-genesis-8-male-s)
+- Alternative Piercing [Female](https://www.daz3d.com/alternative-piercing-pack-for-genesis-8-female) & [Male](https://www.daz3d.com/alternative-piercing-pack-for-genesis-8-male)
+
+### Tattoo
+
 ## Genitals
+- [Golden Palace for Genesis 8 Female](https://f95zone.to/threads/golden-palace-for-genesis-8-female-g8-1f-patch-v2-december-2018.31217/)
+- [Dicktator](https://f95zone.to/threads/dicktator-for-genesis-8-male-v0-3-g8m-g8-1m.20240/) & [Texture Wizard](https://f95zone.to/threads/texture-wizard-2019-12.21464/) - [Guide](https://attachments.f95zone.to/2020/03/598668_Wibble_Guide.pdf)
 
 ## Components
 
