@@ -33,8 +33,11 @@
 - [7th Ave: Yoga](https://www.renderosity.com/rr/mod/bcs/7th-ave-yoga-for-g3f/111415)
 
 ## Lucy
-#### G3
 - [BD Demi](https://www.daz3d.com/bd-demi)
+#### G8
+- [Daphne for Olympia 8](https://www.daz3d.com/daphne-for-olympia-8)
+- [Olympia 8](https://www.daz3d.com/olympia-8)
+- [Olympia 8 HD](https://www.daz3d.com/olympia-8-hd-add-on)
 #### Hair
 - [Christina Hair](https://www.daz3d.com/christina-hair)
 #### Clothes
