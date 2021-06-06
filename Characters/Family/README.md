@@ -47,10 +47,6 @@
 #### G8
 - [Victoria 7 for Victoria 8](https://www.daz3d.com/victoria-7-for-victoria-8)
 - [Victoria 8 HD](https://www.daz3d.com/victoria-8-hd-add-on)
-#### G8 v1
-- [Big Bro]()
-#### G8.1 v2
-- [Big Bro AS]()
 #### Hair
 - [Jennifer Hair](https://www.daz3d.com/jennifer-hair-for-genesis-3-female-s)
 
