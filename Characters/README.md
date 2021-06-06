@@ -1,8 +1,6 @@
 # Daz Library basic for Characters
 
 ## Characters
-- [Victoria 7](https://www.daz3d.com/victoria-7-pro-bundle)
-- [Michael 7](https://www.daz3d.com/michael-7-pro-bundle)
 - [Victoria 8](https://www.daz3d.com/victoria-8-pro-bundle)
 - [Michael 8](https://www.daz3d.com/michael-8-pro-bundle)
 
