@@ -35,10 +35,15 @@
 - [Flair Outfit](https://www.daz3d.com/flair-outfit-for-genesis-3-female-s)
 #### Babydoll
 - [X-Fashion Lace Babydoll](https://www.renderosity.com/rr/mod/bcs/x-fashion-lace-babydoll-for-genesis-3-females/120387)
+- [i13 3 Sassy Tops](https://www.daz3d.com/i13-3-sassy-tops-for-the-genesis-3-female-s)
+#### Babydoll 02
+- [X-Fashion Lace Babydoll](https://www.renderosity.com/rr/mod/bcs/x-fashion-lace-babydoll-for-genesis-3-females/120387)
+- [Long Nightie Shirt](https://www.renderosity.com/rr/mod/bcs/long-nightie-shirt-for-genesis-3-females/120268)
 #### Robe
 - [Dreamy Lingerie](https://www.daz3d.com/dreamy-lingerie-for-genesis-3-female-s)
 #### Bikini 01
 - [Hot Summer 2017](https://www.renderosity.com/rr/mod/bcs/hot-summer-2017-for-g3-females/120951)
+- [dForce XXL Shirt](https://www.renderosity.com/rr/mod/bcs/dforce-xxl-shirt-for-genesis-8-females/136705)
 #### Bikini 02
 - [Hot Summer 2017](https://www.renderosity.com/rr/mod/bcs/hot-summer-2017-for-g3-females/120951)
 - [Swimsuit](https://www.daz3d.com/swimsuit-for-genesis-3-female-s)
