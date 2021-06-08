@@ -76,6 +76,18 @@
 - [Victoria 8 HD](https://www.daz3d.com/victoria-8-hd-add-on)
 #### Hair
 - [Jennifer Hair](https://www.daz3d.com/jennifer-hair-for-genesis-3-female-s)
+#### Home clothes 01
+- [Sweetie PJ Set](https://www.renderosity.com/rr/mod/bcs/sweetie-pj-set-for-genesis-3-females/119684)
+- [Hot Dream – Top and Panties](https://www.renderosity.com/rr/mod/bcs/hot-dream---top-and-panties-for-g3-and-v7/120954)
+#### Home clothes 02
+- [Bardot Style](https://www.renderosity.com/rr/mod/bcs/bardot-style-for-g2/110999)
+#### Nightie Shirt 01 02
+- [Long Nightie Shirt](https://www.renderosity.com/rr/mod/bcs/long-nightie-shirt-for-genesis-3-females/120268)
+#### Bikini 01
+- [SwimWear](https://www.daz3d.com/swimwear-for-genesis-3-female-s)
+#### Bikini 01
+- [Hot Summer 2017](https://www.renderosity.com/rr/mod/bcs/hot-summer-2017-for-g3-females/120951)
+- [SWIM Couture Hot Summer 2017](https://www.renderosity.com/rr/mod/bcs/swim-couture-for-hot-summer-2017/121146)
 
 ## Jenny
 ### (old model)
