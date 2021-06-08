@@ -23,14 +23,33 @@
 - [Olympia 8 HD](https://www.daz3d.com/olympia-8-hd-add-on)
 #### Hair
 - [Side Tail Hair](https://www.daz3d.com/side-tail-hair)
-#### Clothes
-- [X-Fashion Lace Babydoll](https://www.renderosity.com/rr/mod/bcs/x-fashion-lace-babydoll-for-genesis-3-females/120387)
-- [Flair Outfit](https://www.daz3d.com/flair-outfit-for-genesis-3-female-s)
 #### Home clothes
 - [Casual Jeans and T-Shirt](https://www.daz3d.com/casual-jeans-and-t-shirt-for-genesis-2-female-s)
 - [Yoga Clothing (g8)](http://www.renderosity.com/mod/bcs/yoga-clothing-for-genesis-8-female-/139453)
 ##### Texture
 - [7th Ave: Yoga](https://www.renderosity.com/rr/mod/bcs/7th-ave-yoga-for-g3f/111415)
+#### Clothes 01
+- [X-Fashion Chic Winter Outfit](https://www.daz3d.com/x-fashion-chic-winter-outfit-for-genesis-3-female-s)
+- [i13 3 Stylish Tops](https://www.daz3d.com/i13-3-stylish-tops-for-the-genesis-3-female-s)
+#### Work clothes
+- [Flair Outfit](https://www.daz3d.com/flair-outfit-for-genesis-3-female-s)
+#### Babydoll
+- [X-Fashion Lace Babydoll](https://www.renderosity.com/rr/mod/bcs/x-fashion-lace-babydoll-for-genesis-3-females/120387)
+#### Robe
+- [Dreamy Lingerie](https://www.daz3d.com/dreamy-lingerie-for-genesis-3-female-s)
+#### Bikini 01
+- [Hot Summer 2017](https://www.renderosity.com/rr/mod/bcs/hot-summer-2017-for-g3-females/120951)
+#### Bikini 02
+- [Hot Summer 2017](https://www.renderosity.com/rr/mod/bcs/hot-summer-2017-for-g3-females/120951)
+- [Swimsuit](https://www.daz3d.com/swimsuit-for-genesis-3-female-s)
+#### Lingerie 01
+- [Fashion Lingerie 3](https://www.renderosity.com/rr/mod/bcs/fashion-lingerie-3-for-g3f/115200)
+#### Lingerie 02
+- [Bra Collection](https://www.renderosity.com/rr/mod/bcs/bra-collection-for-g3-females/118744)
+- [Panties Collection](https://www.renderosity.com/rr/mod/bcs/panties-collection-2-for-g3f/118600)
+#### Santa Clause
+- [DMs Petite Heels](https://www.renderosity.com/rr/mod/bcs/dms-petite-heels/117360)
+- [dforce Santa's Teddy](https://www.renderosity.com/rr/mod/bcs/dforce-santas-teddy-lingerie-g3f-g8f/124173)
 
 ## Lucy
 - [BD Demi](https://www.daz3d.com/bd-demi)
