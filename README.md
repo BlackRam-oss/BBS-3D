@@ -18,6 +18,32 @@ If you downloaded the zipper, just extract the files in a folder, otherwise:
 
 ![alt text](https://github.com/DonRP/BBS-3D/blob/master/images/2021-06-052.webp "Daz")
 
+## Fix Clothes
+
+I noticed that loading a set of my clothes (g3) may give problems , as in this case:
+
+![alt text](https://github.com/DonRP/BBS-3D/blob/master/images/2021-06-08-111435.webp "Daz")
+
+To fix this you will have to add the dress (g3):
+
+![alt text](https://github.com/DonRP/BBS-3D/blob/master/images/2021-06-08-111436.webp "Daz")
+
+The dress will have the default textures. To get the textures modified by me. Just follow these steps:
+
+![alt text](https://github.com/DonRP/BBS-3D/blob/master/images/2021-06-08-111437.webp "Daz")
+
+Click on the dress in my set (the one with problems). Copy the textures:
+
+![alt text](https://github.com/DonRP/BBS-3D/blob/master/images/2021-06-08-111438.webp "Daz")
+
+Click on the new dress (the one you just added). And paste the textures:
+
+![alt text](https://github.com/DonRP/BBS-3D/blob/master/images/2021-06-08-111439.webp "Daz")
+
+After that delete the dress with problems. And as you can see in the example, the dress will not have the previous problems:
+
+![alt text](https://github.com/DonRP/BBS-3D/blob/master/images/2021-06-08-111452.webp "Daz")
+
 ## Vehicles
 - [Pick 'em Up Truck](https://www.daz3d.com/pick-em-up-truck)
 - [Retro Vehicle](https://www.daz3d.com/retro-vehicle-bundle)
