@@ -85,7 +85,7 @@
 - [Long Nightie Shirt](https://www.renderosity.com/rr/mod/bcs/long-nightie-shirt-for-genesis-3-females/120268)
 #### Bikini 01
 - [SwimWear](https://www.daz3d.com/swimwear-for-genesis-3-female-s)
-#### Bikini 01
+#### Bikini 02
 - [Hot Summer 2017](https://www.renderosity.com/rr/mod/bcs/hot-summer-2017-for-g3-females/120951)
 - [SWIM Couture Hot Summer 2017](https://www.renderosity.com/rr/mod/bcs/swim-couture-for-hot-summer-2017/121146)
 
