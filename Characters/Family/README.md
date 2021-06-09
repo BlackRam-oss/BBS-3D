@@ -31,6 +31,8 @@
 #### Clothes 01
 - [X-Fashion Chic Winter Outfit](https://www.daz3d.com/x-fashion-chic-winter-outfit-for-genesis-3-female-s)
 - [i13 3 Stylish Tops](https://www.daz3d.com/i13-3-stylish-tops-for-the-genesis-3-female-s)
+#### Clothes 02
+- [Keyhole Style](https://www.daz3d.com/keyhole-style-for-genesis-3-female-s) & [Textures](https://www.daz3d.com/keyhole-style-comfortable-textures)
 #### Work clothes
 - [Flair Outfit](https://www.daz3d.com/flair-outfit-for-genesis-3-female-s)
 #### Babydoll
