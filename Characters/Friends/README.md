@@ -1,6 +1,7 @@
 # Friends
 
 ## Julia
+![alt text](https://github.com/DonRP/BBS-3D/blob/master/Characters/Family/Julia.png "Julia")
 #### G3
 - [Lilah](https://www.daz3d.com/lilah-for-genesis-3-female)
 #### Hair
