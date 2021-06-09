@@ -64,7 +64,11 @@
 - [Olympia 8 HD](https://www.daz3d.com/olympia-8-hd-add-on)
 #### Hair
 - [Christina Hair](https://www.daz3d.com/christina-hair)
-#### Clothes
+#### Home clothes 01
+- [Let's Workout](https://www.daz3d.com/let-s-workout-for-genesis-3-female-s)
+- [Gym Wear Outfit](http://www.daz3d.com/gym-wear-outfit-for-genesis-8-female-s)
+- [TSS Outfits Package](https://www.renderosity.com/rr/mod/bcs/tss-outfits-package-for-genesis-3-females/116671)
+#### Night dress 01
 - [Deep Impact](https://www.daz3d.com/deep-impact-for-genesis-3-female-s)
 
 ## Liza
