@@ -42,6 +42,11 @@
 - [Round Pool Deck](https://www.renderosity.com/rr/mod/bcs/round-pool-deck/121785) + [Summer Fun](https://www.renderosity.com/rr/mod/bcs/summer-fun-for-round-pool-deck/121825)
 - [Tiles (Texture)](https://www.daz3d.com/tiles)
 
+### Laundry
+- [Dorm Room](https://www.daz3d.com/dorm-room)
+- [Messy Laundry](https://www.daz3d.com/messy-laundry-mega-set)
+- [Laundry Day](https://www.daz3d.com/laundry-day-mega-set)
+- [Northern Terrace Kitchen](https://www.daz3d.com/northern-terrace-kitchen-white-goods)
 
 ## Nightclub
 - [The Brass Pole Nightclub](https://www.daz3d.com/the-brass-pole-nightclub)
