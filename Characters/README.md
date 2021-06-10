@@ -7,32 +7,22 @@
 # Expression
 - 101 Expression for [Female](https://www.daz3d.com/101-expression-library-with-dials-for-the-genesis-8-female) & [Male](https://www.daz3d.com/101-expression-library-with-dials-for-the-genesis-8-male)
 
-### Piercing
-- Piercing Collection [Female](https://www.daz3d.com/piercing-collection-for-genesis-8-female-s) & [Male](https://www.daz3d.com/piercing-collection-for-genesis-8-male-s)
-- Alternative Piercing [Female](https://www.daz3d.com/alternative-piercing-pack-for-genesis-8-female) & [Male](https://www.daz3d.com/alternative-piercing-pack-for-genesis-8-male)
-
-### Tattoo
-
 ## Genitals
 - [Golden Palace for Genesis 8 Female](https://f95zone.to/threads/golden-palace-for-genesis-8-female-g8-1f-patch-v2-december-2018.31217/)
 - [Dicktator](https://f95zone.to/threads/dicktator-for-genesis-8-male-v0-3-g8m-g8-1m.20240/) & [Texture Wizard](https://f95zone.to/threads/texture-wizard-2019-12.21464/) - [Guide](https://attachments.f95zone.to/2020/03/598668_Wibble_Guide.pdf)
 
-## Components
-
 ## Morphs
 - [Daz Originals Morphs](https://f95zone.to/threads/daz3d-morph-bundle-gen8-unofficial-bundle.19345/)
 - Genesis 8 Female Body Morph Resource Kit [1](https://www.daz3d.com/genesis-8-female-body-morph-resource-kit), [2](https://www.daz3d.com/genesis-8-female-body-morph-resource-kit-2), & [3](https://www.daz3d.com/genesis-8-female-body-morph-resource-kit-3)
-- [Glutes Morphs for G8F Vol 1](https://www.renderosity.com/rr/mod/bcs/glutes-morphs-for-g8f-vol-1/121457)
-- Hips Waist Stomach Morphs [Vol 1](https://www.renderosity.com/rr/mod/bcs/hips-waist-stomach-morphs-for-g8f-vol-1/121656) & [Vol 2](https://www.renderosity.com/rr/mod/bcs/?ViewProduct=128553)
 - [HS dForce Breast](https://www.daz3d.com/hs-dforce-breast-for-genesis-2-through-genesis-8-female)
-- [Killer Legs 2.0 Morphs ](https://www.daz3d.com/killer-legs-2-0-morphs-for-genesis-8-female)
+- [Super Curves Remastered](https://www.renderosity.com/rr/mod/bcs/super-curves-body-morphs-g8f/144201)
+- [Z Natural Form Breast Shape and Squishes](https://www.daz3d.com/z-natural-form-breast-shape-and-squishes-mega-set-for-genesis-8-and-81-female)
 
 ## Morphs EJ
 - EJ Body Shape And Detail [Female(s)](https://www.daz3d.com/ej-body-shape-and-detail-morphs-for-genesis-8-female-s) & [Male(s)](https://www.daz3d.com/ej-body-shape-and-detail-morphs-for-genesis-8-male-s)
 - EJ Face Morphs and Details [Female(s)](https://www.daz3d.com/ej-face-morphs-and-details-for-genesis-8-females) & [Male(s)](https://www.daz3d.com/ej-face-morphs-and-details-for-genesis-8-male)
 
 ## Morphs Zev0
-- [Zev0 200 Plus Head and Face Morphs](https://www.daz3d.com/200-plus-head-and-face-morphs-bundle-for-genesis-8-female-s-and-male-s)
 - Zev0 Growing Up [Female(s)](https://www.daz3d.com/growing-up-for-genesis-8-female-s)  & [Male(s)](https://www.daz3d.com/growing-up-for-genesis-8-male-s)
 - [Zev0 Vascularity HD](https://www.daz3d.com/vascularity-hd-for-genesis-8-female-and-male)
 
