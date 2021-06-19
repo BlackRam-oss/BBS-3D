@@ -26,6 +26,8 @@
 ### Room Liza
 - [Dorm Room](https://www.daz3d.com/dorm-room)
 - [College Girl Dorm](https://www.daz3d.com/college-girl-dorm-bundle)
+- [Messy Vignette Bedroom](https://www.daz3d.com/messy-vignette-bedroom)
+- [Laptop and Table Set](https://www.daz3d.com/laptop-and-table-set)
 
 ### Living room
 - [i13 Comfortable Living Room](https://www.daz3d.com/i13-comfortable-living-room-with-poses-for-the-genesis-3-female-s)
