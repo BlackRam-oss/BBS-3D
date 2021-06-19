@@ -4,9 +4,7 @@
 - [Collective3d Create a Room Base Set & XPack 1, 2, 3](https://f95zone.to/threads/collective3d-create-a-room-base-set-xpack-1-2-3-unofficial-bundle.21739)
 
 ##### (Misc)
-- [Summer Mood Bedroom](https://www.daz3d.com/summer-mood-bedroom)
 - [i13 Stylish Apartment](https://www.daz3d.com/i13-stylish-apartment-bundle)
-- [College Dorm](https://www.daz3d.com/college-dorm-bundle)
 
 ## MC House
 
