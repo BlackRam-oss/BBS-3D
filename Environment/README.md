@@ -22,6 +22,7 @@
 
 ### Room Lucy
 - [GCD Interiors - Design46](https://www.renderosity.com/rr/mod/bcs/gcd-interiors---design46/121322)
+- [Vanity Room](https://www.daz3d.com/vanity-room-environment-and-poses)
 
 ### Room Liza
 - [Dorm Room](https://www.daz3d.com/dorm-room)
