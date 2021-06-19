@@ -15,6 +15,7 @@
 
 ### Room MC (Bobby)
 - [College Dorm](https://www.daz3d.com/college-dorm)
+- [Laptop and Table Set](https://www.daz3d.com/laptop-and-table-set)
 
 ### Room Ms. Anna
 - [i13 On My Own Bundle](https://www.daz3d.com/i13-on-my-own-bundle)
