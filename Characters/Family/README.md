@@ -27,6 +27,10 @@
 - [Olympia 8 HD](https://www.daz3d.com/olympia-8-hd-add-on)
 #### Hair
 - [Side Tail Hair](https://www.daz3d.com/side-tail-hair)
+# Expression G3
+https://www.daz3d.com/olympia-7-expressive
+# Expression G8
+https://www.daz3d.com/elegance--expressions-for-genesis-8-female-and-penny-8
 #### Home clothes
 - [Casual Jeans and T-Shirt](https://www.daz3d.com/casual-jeans-and-t-shirt-for-genesis-2-female-s)
 - [Yoga Clothing (g8)](http://www.renderosity.com/mod/bcs/yoga-clothing-for-genesis-8-female-/139453)
