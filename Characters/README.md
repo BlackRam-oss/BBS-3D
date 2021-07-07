@@ -6,6 +6,7 @@
 
 # Expression
 - 101 Expression for [Female](https://www.daz3d.com/101-expression-library-with-dials-for-the-genesis-8-female) & [Male](https://www.daz3d.com/101-expression-library-with-dials-for-the-genesis-8-male)
+- [G8F Expressions for G8.1F + PowerPose Templates](https://f95zone.to/threads/g8f-expressions-for-g8-1f-powerpose-templates.72155/)
 
 ## Genitals
 - [Golden Palace for Genesis 8 Female](https://f95zone.to/threads/golden-palace-for-genesis-8-female-g8-1f-patch-v2-december-2018.31217/)
