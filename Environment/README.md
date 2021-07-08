@@ -49,6 +49,7 @@
 - [Messy Laundry](https://www.daz3d.com/messy-laundry-mega-set)
 - [Laundry Day](https://www.daz3d.com/laundry-day-mega-set)
 - [Northern Terrace Kitchen](https://www.daz3d.com/northern-terrace-kitchen-white-goods)
+- [Z Household Chores Laundry](https://www.daz3d.com/z-household-chores-laundry-for-genesis-8)
 
 ## Nightclub
 - [The Brass Pole Nightclub](https://www.daz3d.com/the-brass-pole-nightclub)
