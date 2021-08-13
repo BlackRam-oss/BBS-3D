@@ -5,8 +5,11 @@
 - [Michael 8](https://www.daz3d.com/michael-8-pro-bundle)
 
 # Expression
+- [G8F Expressions for G8.1F + PowerPose Templates](https://f95zone.to/threads/g8f-expressions-for-g8-1f-powerpose-templates.72155)
+- New Faces Expressions for [Female](https://www.daz3d.com/new-faces--expressions-for-genesis-81-female-and-victoria-81) & [Male](https://www.daz3d.com/new-faces-expressions-for-genesis-81-male-and-michael-81)
+- Face Control Expansion for [Female](https://www.daz3d.com/face-control-expansion-for-genesis-81-female) & [Male](https://www.daz3d.com/face-control-expansion-for-genesis-81-male)
 - 101 Expression for [Female](https://www.daz3d.com/101-expression-library-with-dials-for-the-genesis-8-female) & [Male](https://www.daz3d.com/101-expression-library-with-dials-for-the-genesis-8-male)
-- [G8F Expressions for G8.1F + PowerPose Templates](https://f95zone.to/threads/g8f-expressions-for-g8-1f-powerpose-templates.72155/)
+- [V 100 Expressions The Gold Collection 2](https://www.daz3d.com/v-100-expressions-the-gold-collection-2-for-genesis-81-female)
 
 ## Genitals
 - [Golden Palace for Genesis 8 Female](https://f95zone.to/threads/golden-palace-for-genesis-8-female-g8-1f-patch-v2-december-2018.31217/)
