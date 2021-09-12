@@ -35,6 +35,7 @@
 - [i13 On My Own](https://www.daz3d.com/i13-on-my-own-bundle)
 
 ### Kiken
+- [Modern Shaker](https://www.daz3d.com/modern-shaker-style-kitchen)
 - [MHE: Fruit](https://www.daz3d.com/mhe-fruit)
 - [Photo Buffet Exotic Fruit](https://www.renderosity.com/rr/mod/bcs/photo-buffet-exotic-fruit/114418)
 - [Z Household Chores Cooking](https://www.daz3d.com/z-household-chores-cooking-for-genesis-8)
