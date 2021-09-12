@@ -34,6 +34,11 @@
 - [i13 Hotel and Lounge](https://www.daz3d.com/i13-hotel-and-lounge-environment-with-poses)
 - [i13 On My Own](https://www.daz3d.com/i13-on-my-own-bundle)
 
+### Kiken
+- [MHE: Fruit](https://www.daz3d.com/mhe-fruit)
+- [Photo Buffet Exotic Fruit](https://www.renderosity.com/rr/mod/bcs/photo-buffet-exotic-fruit/114418)
+- [Z Household Chores Cooking](https://www.daz3d.com/z-household-chores-cooking-for-genesis-8)
+
 ### Bathroom
 - [i13 Visions Bathroom Bundle](https://www.daz3d.com/i13-visions-bathroom-bundle)
 - [i13 Ornate Bathroom with Morphing Towel](https://www.daz3d.com/i13-ornate-bathroom-with-morphing-towel-and-poses)

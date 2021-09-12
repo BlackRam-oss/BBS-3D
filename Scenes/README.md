@@ -8,3 +8,8 @@
 - [Greek Goddess](https://www.daz3d.com/greek-goddess-poses-for-olympia-7)
 - [Amazon Queen](https://www.daz3d.com/amazon-queen-poses-for-olympia-7)
 - [Daily Poses](https://www.daz3d.com/daily-poses-for-the-genesis-3-female-s)
+
+# Props
+- [Selfie Stick and Smart Phone](https://www.daz3d.com/selfie-stick-and-smart-phone)
+- [Complete Beauty Collection Bundle](https://www.daz3d.com/complete-beauty-collection-bundle)
+- [Cosmetics and Poses - Nails](https://www.daz3d.com/cosmetics-and-poses--nails)

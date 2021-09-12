@@ -12,6 +12,9 @@
 - [Michael 8 HD](https://www.daz3d.com/michael-8-hd-add-on)
 #### Hair
 - [Tyler Hair](https://www.daz3d.com/tyler-hair-for-genesis-2-3-male-s)
+# Expression G8
+- [Modern Man](https://www.daz3d.com/modern-man--expressions-for-genesis-8-male-and-diego-8)
+- [Z Devilish Smiles](https://www.daz3d.com/z-devilish-smiles-and-expressions-for-genesis-3-and-8)
 #### Home clothes
 - [Slacker Outfit](https://www.daz3d.com/slacker-outfit-for-genesis-3-male-s)
 - [Run With](https://www.daz3d.com/run-with-it-outfit-for-genesis-3-male-s)
@@ -80,6 +83,8 @@
 - [Let's Workout](https://www.daz3d.com/let-s-workout-for-genesis-3-female-s)
 - [Gym Wear Outfit](http://www.daz3d.com/gym-wear-outfit-for-genesis-8-female-s)
 - [TSS Outfits Package](https://www.renderosity.com/rr/mod/bcs/tss-outfits-package-for-genesis-3-females/116671)
+#### Home clothes 02
+- [Sweetie PJ Set](https://www.renderosity.com/rr/mod/bcs/sweetie-pj-set-for-genesis-3-females/119684)
 #### Night dress 01
 - [Deep Impact](https://www.daz3d.com/deep-impact-for-genesis-3-female-s)
 
@@ -94,6 +99,11 @@
 - [Victoria 8 HD](https://www.daz3d.com/victoria-8-hd-add-on)
 #### Hair
 - [Jennifer Hair](https://www.daz3d.com/jennifer-hair-for-genesis-3-female-s)
+# Expression G3
+- [Feel It! Mix and Match](https://www.daz3d.com/feel-it-mix-and-match-expressions-for-victoria-7)
+#### Home clothes
+- [dForce Tank Top](https://www.renderosity.com/rr/mod/bcs/dforce-tank-top-for-genesis-8-female/137417)
+- [dForce Mini PJs](https://www.renderosity.com/rr/mod/bcs/dforce-mini-pjs-for-genesis-8-females/135635)
 #### Home clothes 01
 - [Sweetie PJ Set](https://www.renderosity.com/rr/mod/bcs/sweetie-pj-set-for-genesis-3-females/119684)
 - [Hot Dream – Top and Panties](https://www.renderosity.com/rr/mod/bcs/hot-dream---top-and-panties-for-g3-and-v7/120954)

@@ -10,6 +10,7 @@
 - Face Control Expansion for [Female](https://www.daz3d.com/face-control-expansion-for-genesis-81-female) & [Male](https://www.daz3d.com/face-control-expansion-for-genesis-81-male)
 - 101 Expression for [Female](https://www.daz3d.com/101-expression-library-with-dials-for-the-genesis-8-female) & [Male](https://www.daz3d.com/101-expression-library-with-dials-for-the-genesis-8-male)
 - [V 100 Expressions The Gold Collection 2](https://www.daz3d.com/v-100-expressions-the-gold-collection-2-for-genesis-81-female)
+- [Z Faces Of Battle](https://www.daz3d.com/z-faces-of-battle-dialable-and-one-click-expressions-for-genesis-3-and-8)
 
 ## Genitals
 - [Golden Palace for Genesis 8 Female](https://f95zone.to/threads/golden-palace-for-genesis-8-female-g8-1f-patch-v2-december-2018.31217/)
