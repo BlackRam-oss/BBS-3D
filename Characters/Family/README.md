@@ -127,4 +127,5 @@
 - [Cailin Bundle](https://www.daz3d.com/cailin-bundle)
 ### (new model never published)
 #### G3
+- [Ktarya](https://www.daz3d.com/tw-ktarya-for-genesis-3-and-genesis-8-female-s)
 #### Hair
