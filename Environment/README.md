@@ -5,6 +5,7 @@
 
 ##### (Misc)
 - [i13 Stylish Apartment](https://www.daz3d.com/i13-stylish-apartment-bundle)
+- [i13 Doctor's Office](https://www.daz3d.com/i13-doctor-s-office-environment-with-poses)
 - Ultimate dForce [Bed](https://www.daz3d.com/ultimate-dforce-bed) & [Single Bed](https://www.daz3d.com/ultimate-dforce-single-bed)
 
 ## MC House
