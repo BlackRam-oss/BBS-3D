@@ -44,6 +44,7 @@
 - [Leony Wet and Dry](https://www.daz3d.com/leony-wet-and-dry-ponytail-hair-for-genesis-3-and-8-females)
 
 ## Clothes
+- [Beautiful Shoes Collection](https://www.daz3d.com/beautiful-shoes-collection-for-genesis-8-females)
 ##### TODO: some clothes in the list should not be part of this list because they are only used by one character, while here are only general clothes
 - [Let's Go Outfit](https://www.daz3d.com/let-s-go-outfit-for-genesis-3-female-s)
 - [i13 3 Sassy Tops](https://www.daz3d.com/i13-3-sassy-tops-for-the-genesis-3-female-s)
