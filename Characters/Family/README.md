@@ -119,13 +119,15 @@
 
 ## Jenny
 ![alt text](https://github.com/DonRP/BBS-3D/blob/master/Characters/Family/Jenny.png "Jenny")
-
 ### (old model)
-#### G3
 - [FWSA Zetta](https://www.renderosity.com/rr/mod/bcs/fwsa-zetta-for-victoria-7-and-genesis-3/119540)
+- [Blaire](https://www.daz3d.com/blaire-for-genesis-3-female-s)
 #### Hair
 - [Cailin Bundle](https://www.daz3d.com/cailin-bundle)
 ### (new model never published)
-#### G3
-- [Ktarya](https://www.daz3d.com/tw-ktarya-for-genesis-3-and-genesis-8-female-s)
+- [TW Ktarya](https://www.daz3d.com/tw-ktarya-for-genesis-3-and-genesis-8-female-s)
 #### Hair
+- [Cailin Hair](https://www.daz3d.com/cailin-hair)
+#### Clothes 01
+- [Let's Go Outfit](https://www.daz3d.com/let-s-go-outfit-for-genesis-3-female-s) & [Texture](https://www.renderosity.com/rr/mod/bcs/fashion-lets-go-iray/118659)
+- [Cute Casual Outfit](https://www.daz3d.com/cute-casual-outfit-for-genesis-8-females)
